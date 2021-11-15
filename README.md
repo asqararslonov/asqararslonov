@@ -1,6 +1,6 @@
 ### Hi there, I'm Asqar 👋
 
-- 💻 I’m currently learning React <a href="https://nodejs.org/" title="nodejs"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="nodejs"  width="21px" height="21px"></a>
+- 💻 I’m currently learning nodejs <a href="https://nodejs.org/" title="nodejs"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="nodejs"  width="21px" height="21px"></a>
 - 💬 Ask me about web application structure and web application technologies👨‍💻.
 
 <div align="center">
