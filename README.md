@@ -1,6 +1,6 @@
 ### Hi there, I'm Asqar 👋
 
-- 💻 I’m currently learning React <a href="https://reactjs.org/" title="docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="react"  width="21px" height="21px"></a>
+- 💻 I’m currently learning React <a href="https://nodejs.org/" title="nodejs"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="nodejs"  width="21px" height="21px"></a>
 - 💬 Ask me about web application structure and web application technologies👨‍💻.
 
 <div align="center">
@@ -34,4 +34,4 @@ src="https://github-readme-stats.vercel.app/api?username=asqararslonov&show_icon
 <br>
 
 Email: arslonovasqar123@gmail.com <br />
-Telegram: https://t.me/Full_Stack_developer
+Telegram: https://t.me/AsqarArslonov
