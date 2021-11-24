@@ -28,6 +28,7 @@ src="https://github-readme-stats.vercel.app/api?username=asqararslonov&show_icon
 <code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/atom.svg"               width="21px" height="21px"></code> - `Atom` |
 <code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg"           width="21px" height="21px"></code> - `Git` |
 <code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" width="21px" height="21px"></code> - `Vs Code` |
+<code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/linux.svg" width="21px" height="21px"></code> - `Linux` |
 <code><img alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" width="21px" height="21px"></code> - `Powershell` |
 <code><img alt="webstorm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" width="21px" height="21px"></code> - `WebStorm` |
 
