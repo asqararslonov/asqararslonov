@@ -1,6 +1,6 @@
 ### Hi there, I'm Asqar 👋
 
-- 💻 I’m currently learning nodejs <a href="https://nodejs.org/" title="nodejs"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="nodejs"  width="21px" height="21px"></a>
+- 💻 I’m currently learning expressjs <a href="https://expressjs.org/" title="expressjs"><img src="https://evanpoe.github.io/portfolio/images/express-logo.png" alt="expressjs"  width="21px" height="21px"></a>
 - 💬 Ask me about web application structure and web application technologies👨‍💻.
 
 <div align="center">
@@ -15,8 +15,10 @@ src="https://github-readme-stats.vercel.app/api?username=asqararslonov&show_icon
 
 
 **Languages, Frameworks and Libraries:** <br>
- 
+
 <code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" width="21px" height="21px"></code>- `JavaScript` |
+<code><img src="https://evanpoe.github.io/portfolio/images/express-logo.png" width="21px" height="21px"></code>- `Express.js` |
+<code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" width="21px" height="21px"></code>- `Node.js` |
 <code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg"     width="21px" height="21px"></code> - `HTML` |
 <code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg"      width="21px" height="21px"></code> - `CSS` |
 <code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg"  width="21px" height="21px"></code> - `Bootstrap` |
