@@ -1,7 +1,7 @@
 ### Hi there, I'm Asqar 👋
 
 - 💻 I’m currently learning expressjs <a href="https://expressjs.org/" title="expressjs"><img src="https://evanpoe.github.io/portfolio/images/express-logo.png" alt="expressjs"  width="21px" height="21px"></a>
-- 💬 Ask me about web application structure and web application technologies👨‍💻.
+- 💬 Ask me about web and web application👨‍💻.
 
 <div align="center">
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asqararslonov&layout=compact&theme=tokyonight&hide_border=true" />
@@ -10,7 +10,6 @@
 <img width="425px" height="185px" 
 src="https://github-readme-stats.vercel.app/api?username=asqararslonov&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
 
-<!-- <img src="https://camo.githubusercontent.com/bcff68fe9f56ab905de6ad39358d0bf1912e8d59feaf63013773616c7961913d/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d61737161726172736c6f6e6f7632303038267468656d653d72656163742d6461726b" alt=""> -->
 </div>
 
 
