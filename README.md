@@ -1,7 +1,7 @@
 ### Hi there, I'm Asqar 👋
 
 - 💻 I’m currently learning expressjs <a href="https://expressjs.org/" title="expressjs"><img src="https://evanpoe.github.io/portfolio/images/express-logo.png" alt="expressjs"  width="21px" height="21px"></a>
-- 💬 Ask me about web and web application👨‍💻.
+- 💬 Ask me about web application👨‍💻.
 
 <div align="center">
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asqararslonov&layout=compact&theme=tokyonight&hide_border=true" />
@@ -23,6 +23,7 @@ src="https://github-readme-stats.vercel.app/api?username=asqararslonov&show_icon
 <code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg"      width="21px" height="21px"></code> - `React` |
 <code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg"      width="21px" height="21px"></code> - `Redux` |
 <code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg"       width="21px" height="21px"></code> - `Sass (SCSS)` |
+<code><img src="https://telegraf.js.org/media/logo.svg"       width="21px" height="21px"></code> - `Telegraf` |
 
 **Tools**: <br>
 <code><img src="https://github.com/tomchen/stack-icons/blob/master/logos/atom.svg"               width="21px" height="21px"></code> - `Atom` |
