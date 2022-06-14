@@ -1,8 +1,10 @@
 ### Hi there, I'm Asqar 👋
 
-- 💻 I’m currently learning expressjs <a href="https://expressjs.org/" title="expressjs"><img src="https://evanpoe.github.io/portfolio/images/express-logo.png" alt="expressjs"  width="21px" height="21px"></a>
+- 💻 I’m currently learning TypeScript <a href="https://www.typescriptlang.org/" title="expressjs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt=""  width="28px" height="28px"></a>
 - 💬 Ask me about web application👨‍💻.
+- ⚡ Fun fact: I can rap faster than Eminem
 
+![](https://komarev.com/ghpvc/?username=asqararslonov)
 <div align="center">
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asqararslonov&layout=compact&theme=tokyonight&hide_border=true" />
 <br/>
