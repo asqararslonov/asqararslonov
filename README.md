@@ -1,6 +1,6 @@
 ### Hi there, I'm Asqar 👋
 
-- 💻 I’m currently learning TypeScript <a href="https://www.typescriptlang.org/" title="expressjs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt=""  width="28px" height="28px"></a>
+- 💻 I’m currently learning TypeScript <a href="https://www.typescriptlang.org/" title="expressjs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt=""  width="21px" height="21px"></a>
 - 💬 Ask me about web application👨‍💻.
 - ⚡ Fun fact: I can rap faster than Eminem
 
