@@ -2,17 +2,20 @@
 
 - 💻 I’m currently learning TypeScript <a href="https://www.typescriptlang.org/" title="expressjs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt=""  width="21px" height="21px"></a>
 - 💬 Ask me about web application👨‍💻.
-- ⚡ Fun fact: I can rap faster than Eminem
+- ⚡ Fun fact: I can rap faster than Eminem.
+
 
 ![](https://komarev.com/ghpvc/?username=asqararslonov)
-<div align="center">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asqararslonov&layout=compact&theme=tokyonight&hide_border=true" />
-<br/>
- <img  width="400px" height="185px"  src="http://github-readme-streak-stats.herokuapp.com/?user=asqararslonov&theme=tokyonight&hide_border=true" />
-<img width="400px" height="185px" 
-src="https://github-readme-stats.vercel.app/api?username=asqararslonov&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
 
+<div align="center">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asqararslonov&layout=compact&bg_color=000000&color=36bcf7&theme=tokyonight&hide_border=true" />
+
+<br/>
+    <img width="400px" height="185px" src="http://github-readme-streak-stats.herokuapp.com/?user=asqararslonov&theme=tokyonight&hide_border=true&background=000000" />
+    <img width="400px" height="185px" src="https://github-readme-stats.vercel.app/api?username=asqararslonov&bg_color=000000&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
 </div>
+
+[![Activity graph](https://activity-graph.herokuapp.com/graph?username=AsqarArslonov&bg_color=000000&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true)](https://github.com/AsqarArslonov)
 
 **Languages, Frameworks and Libraries:** <br>
 
